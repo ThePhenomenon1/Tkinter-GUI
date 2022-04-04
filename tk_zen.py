@@ -1,7 +1,10 @@
 
-# Let's take a look at the example Python GUI application that can be created with the use of the built-in tkinter module. The following GUI application displays a single Python Zen button. 
+# Let's take a look at the example Python GUI application that can be created with the use of the built-in tkinter module. 
+# The following GUI application displays a single Python Zen button. 
 
-# When the button is clicked, the application will open a new window containing the Zen of Python text that was imported from the this module. The this module is a Python easter egg. After import, it prints on standard output the 19 aphorisms that are the guiding principles of Python's design.
+# When the button is clicked, the application will open a new window containing the Zen of Python text that was imported from the this module. 
+# The this module is a Python easter egg. 
+# After import, it prints on standard output the 19 aphorisms that are the guiding principles of Python's design.
 
 # Event-driven programming in GUIs
 import this
