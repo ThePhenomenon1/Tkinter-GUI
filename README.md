@@ -7,4 +7,4 @@ When the button is clicked, the application will open a new window containing th
 The this module is a Python easter egg. 
 After import, it prints on standard output the 19 aphorisms that are the guiding principles of Python's design.
 
-GUI coding principals are fundamental in helping us understand Synchronous and Asynchronous programming.
+The GUI coding principals are fundamental in helping us understand Synchronous and Asynchronous programming.
