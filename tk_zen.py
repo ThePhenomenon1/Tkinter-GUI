@@ -3,7 +3,7 @@
 
 # This GUI application displays a single Python Zen button. 
 # When the button is clicked, the application will open a new window containing the Zen of Python text that was imported from the this module. 
-# The this module is a Python easter egg. 
+# The this module is a Python easter egg. (I always thought the this module is a weird module moniker).
 # After import, it prints on standard output the 19 aphorisms that are the guiding principles of Python's design.
 
 # Event-driven programming in GUIs
