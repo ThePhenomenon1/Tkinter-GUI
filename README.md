@@ -1,6 +1,6 @@
 # Tkinter-GUI
 
-A Graphical User Interface displaying the power of Event-Driven programming.
+Here we have a Graphical User Interface displaying the power of Event-Driven programming.
 
 This GUI application, using the tkinter built-in module, displays a single Python Zen button. 
 When the button is clicked, the application will open a new window containing the Zen of Python text that was imported from the 'this' module. 
