@@ -10,4 +10,6 @@ After import, it prints on standard output the 19 aphorisms that are the guiding
 My favourite aphorism is:
 "Namespaces are one honking great idea -- let's do more of those!"
 
+Good to have mastered that namespace concept!
+
 The GUI coding principals are fundamental in helping us understand Synchronous and Asynchronous programming.
