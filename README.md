@@ -1,3 +1,5 @@
+![LinkedIn Python Skill Badge](https://user-images.githubusercontent.com/96743401/154258965-dc261437-a916-442b-aed4-0d6ea3e095c8.png)
+
 # Tkinter-GUI
 
 Here we have a Graphical User Interface displaying the power of Event-Driven programming. Event-driven programming is a programming paradigm in which the flow of the program is determined by events such as user actions (mouse clicks, key presses), sensor outputs, or messages passing from other programs or threads. 
