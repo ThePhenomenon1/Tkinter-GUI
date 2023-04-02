@@ -2,7 +2,7 @@
 
 # Tkinter-GUI
 
-Here we have a Graphical User Interface displaying the power of Event-Driven programming. Event-driven programming is a programming paradigm in which the flow of the program is determined by events such as user actions (mouse clicks, key presses), sensor outputs, or messages passing from other programs or threads. 
+Here we have a Graphical User Interface (GUI) displaying the power of Event-Driven programming. Event-driven programming is a programming paradigm in which the flow of the program is determined by events such as user actions (mouse clicks, key presses), sensor outputs, or messages passing from other programs or threads. 
 
 The difference between event-driven and procedure-driven models is primarily one of program flow. In a typical procedure-driven program, the execution of program statements is predetermined and controlled by the programmer. It generally runs from the beginning of the source file to the end.
 
