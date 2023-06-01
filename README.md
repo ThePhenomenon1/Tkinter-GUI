@@ -14,6 +14,6 @@ After import, it prints on standard output the 19 aphorisms that are the guiding
 My favourite aphorism is:
 "Namespaces are one honking great idea -- let's do more of those!"
 
-Good to have mastered that namespace concept! Fundamental in DevOps.
+Good to have mastered that namespace concept! This is fundamental in DevOps.
 
 The GUI coding principals are vital in helping us understand Synchronous and Asynchronous programming. My Shopping Cart functionality as well the Neural Network UI delivery on my ecommerce Boutique A.I. Assistant are powered partly by Asnchronous Programming in the form of AJAX - Asynchronous Javascript and XML.
