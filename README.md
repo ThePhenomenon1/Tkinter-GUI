@@ -16,4 +16,4 @@ My favourite aphorism is:
 
 Good to have mastered that namespace concept! This is fundamental in DevOps.
 
-The GUI coding principals are vital in helping us understand Synchronous and Asynchronous programming. The Shopping Cart functionality as well the Neural Network UI delivery on my ecommerce Boutique A.I. Assistant are powered partly by Asnchronous Programming in the form of AJAX - Asynchronous Javascript and XML.
+The GUI coding principals are vital in helping us understand Synchronous and Asynchronous programming. The Shopping Cart and Checkout functionality as well the Neural Network UI delivery on my ecommerce Boutique A.I. Assistant are powered partly by Asnchronous Programming in the form of AJAX - Asynchronous Javascript and XML.
