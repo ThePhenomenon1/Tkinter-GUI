@@ -18,4 +18,4 @@ Good to have mastered that namespace concept! This is fundamental in DevOps.
 
 The GUI coding principals are vital in helping us understand Synchronous and Asynchronous programming. The Shopping Cart and Checkout functionality as well the Neural Network UI delivery on my ecommerce Boutique A.I. Assistant are powered partly by Asynchronous Programming in the form of AJAX - Asynchronous Javascript and XML.
 
-(Asyncio is a Python library that's used to write concurrent code with async and await syntax. It's used primarily in I/O-bound tasks, such as web page development or fetching data from APIs. Thus, aside from multiprocessing and threading, this is another, newish member in the concurrency family of Python.)
+(Asyncio is a Python library that's used to write concurrent code with async and await syntax. It's used primarily in I/O-bound tasks, such as web page development or fetching data from APIs (and realtime chat!). Thus, aside from multiprocessing and threading, this is another, newish member in the concurrency family of Python.)
